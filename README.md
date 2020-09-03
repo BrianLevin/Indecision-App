@@ -33,6 +33,10 @@
 - React
 - React-Dom
 - React-Model
+- Node-Sass
+- React-Modal
+- React-Scripts
+- Normalize.css
 
 ## Email:
 
