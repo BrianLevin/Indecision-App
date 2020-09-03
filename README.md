@@ -3,7 +3,7 @@
 
 ## Application description:
 
- I built a React based application that allows the user to post options they want to complete  and then randomly choose one of the options. After writing  down  and adding an option in the input box, the user will then click the "what should I do" button which will randomly select the option for them. Users can also remove events one at a time or all at once.
+ I built a React based application that allows the user to post options they want to complete  and then randomly choose one of the options. After writing  down  and adding an option in the input box, the user will then click the "What should I do" button which will randomly select the option for them. Users can also remove options one at a time or all at once.
  
 
  ## Click [here](https://indescision.herokuapp.com/) for the live app. 
